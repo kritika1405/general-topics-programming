@@ -1,0 +1,38 @@
+OOD
+Design patterns
+Software Architechture
+Service oriented architechture - web services and REST (SOA)
+
+Java
+
+https://www.coursera.org/learn/object-oriented-design/lecture/cIGsa/1-1-2-software-architect-and-design-roles-in-industry
+
+lecture 2
+
+software design - lower level
+software architechture - ouward look of the entire product
+
+how to express these ideas effectively.
+
+Software design converts the wishes of the customer into a design. makes it stable and scalable.
+Some don't find a differentiation between software design and architechture.
+previous experience helps a lot.
+
+Why important?
+stable and long lived system . Basically scalable. you need somebody who looks out for a long game.
+the project will fail without some one looking for the long game.
+
+Key challenges?
+tradeoff between speed and quality.
+understanding the client's problem. in many cases they they themselves don't know.
+
+What's the most important principle?
+simplicity first - don't complicate things. simplicity could also be a great solution to a problem.
+because - 1) you have pretty much more chances of getting it right.
+2) therefore, easy to explain. Knowledge transfer in easier.
+
+what's exciting?
+someone always has a problem that is different from the others. Novelty!
+
+
+
